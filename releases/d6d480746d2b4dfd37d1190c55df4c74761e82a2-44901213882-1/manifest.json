@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1",
+  "app": "testproj",
+  "global": "__sveltekit_r6vcxi",
+  "start": "_app/immutable/entry/start.D-JAUVA6.js",
+  "appEntry": "_app/immutable/entry/app.DVTnGkbq.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/entry/start.D-JAUVA6.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/CRjqgn3k.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/XiDJqPt_.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/C7i6f9fA.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/entry/app.DVTnGkbq.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/DmI4Jts6.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/DREavVpY.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/bjCt1vyH.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/chunks/CDqRO02T.js",
+    "https://yissok.github.io/testproj-dist/releases/d6d480746d2b4dfd37d1190c55df4c74761e82a2-44901213882-1/_app/immutable/nodes/0.DHyQl7Gb.js"
+  ],
+  "social": {
+    "title": "Testproj",
+    "description": "An interactive website created with Project Factory."
+  }
+}
